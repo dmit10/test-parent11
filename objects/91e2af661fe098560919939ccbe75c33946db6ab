@@ -1,0 +1,7 @@
+[map "bb82f372-57e8-3d96-ab5f-62dbe9851b47"]
+	object = 42b862b58150050d99d448c9b37f6e60b54094c0
+	type = include + expand tree
+[map "00587aef-9872-3533-99d7-2896d8ff5f46"]
+	object = f10e1dc95d10c480125db9ddfcd203c4cdbcaddd
+	path = module
+	type = expand module
