@@ -5,3 +5,5 @@
 	object = b3a458f37b3b5b01a357ce0f5c14af9149a42acc
 	path = module
 	type = expand module
+[object]
+	state = initial
